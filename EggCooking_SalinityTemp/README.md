@@ -9,7 +9,7 @@
 - [Full Report](#full-report)
 
 ## Introduction
-This project was completed in collaboration with a team. For specifics about individual contributions, please refer to the main project PDF.
+This project was completed in collaboration with a team. Please refer to the project [PDF 'EggCooking_SalinityTemp.pdf'](EggCooking_SalinityTemp.pdf) for more details about the collaborative nature of this work.
 
 Although the consumption of eggs is common worldwide and considered a staple in many households due to its richness in protein, the cooking time of an egg is widely disputed. This experimental study aims to investigate whether factors such as water temperature and water salinity influence the internal temperature of an egg given a controlled 10 minutes of boiling time. The results obtained from this study are essential as they reveal what factors impact the cooking time of an egg and help individuals boil their eggs to perfection.
 
