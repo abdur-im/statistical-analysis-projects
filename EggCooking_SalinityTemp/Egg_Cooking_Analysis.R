@@ -1,10 +1,3 @@
----
-title: "Egg Cooking Data Analysis"
----
-
-## Setup and Data Loading
-
-```{r setup, include=FALSE}
 # Load necessary library
 library(stats)
 
@@ -55,3 +48,4 @@ adjusted_pvalue_contrast2 <- p.adjust(pvalue_contrast2, method = "bonferroni", n
 # Print the adjusted p-values
 cat("Adjusted p-value for comparison of average internal temperatures of treatment 4 vs. treatment 1:", adjusted_pvalue_contrast1, "\n")
 cat("Adjusted p-value for comparison of average internal temperatures of treatment 4 vs. others:", adjusted_pvalue_contrast2, "\n")
+
