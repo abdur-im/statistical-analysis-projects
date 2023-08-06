@@ -1,3 +1,10 @@
+---
+title: "Egg Cooking Data Analysis"
+---
+
+## Setup and Data Loading
+
+```{r setup, include=FALSE}
 # Load necessary library
 library(stats)
 
@@ -22,7 +29,7 @@ contrasts(data$Treatment) <- contr_matrix
 interaction_model <- aov(Egg_Temperature ~ Salted*Temperature, data = data)
 summary(interaction_model)
 
-# If there's no significant interaction (p-value > 0.05), run two-way ANOVA on the additive model
+# Run a two-way ANOVA on the additive model
 additive_model <- aov(Egg_Temperature ~ Salted + Temperature, data = data)
 summary(additive_model)
 
@@ -48,4 +55,3 @@ adjusted_pvalue_contrast2 <- p.adjust(pvalue_contrast2, method = "bonferroni", n
 # Print the adjusted p-values
 cat("Adjusted p-value for comparison of average internal temperatures of treatment 4 vs. treatment 1:", adjusted_pvalue_contrast1, "\n")
 cat("Adjusted p-value for comparison of average internal temperatures of treatment 4 vs. others:", adjusted_pvalue_contrast2, "\n")
-
