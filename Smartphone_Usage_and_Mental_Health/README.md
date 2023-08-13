@@ -9,7 +9,7 @@
 - [Full Report](#full-report)
 
 ## Introduction
-This project was undertaken in collaboration with a team from the University of Toronto for the course STA304H5 S - Applied Statistics. For a deeper understanding of the collaborative nature of this work, kindly access the project [PDF 'Smartphone_Usage_and_Mental_Wellbeing.pdf'](Smartphone_Usage_and_Mental_Wellbeing.pdf).
+This project was undertaken in collaboration with a team from the University of Toronto for the course STA304H5 F - Surveys, Sampling and Observational Data. For a deeper understanding of the collaborative nature of this work, kindly access the project [PDF 'Smartphone_Usage_and_Mental_Health.pdf'](Smartphone_Usage_and_Mental_Health.pdf).
 
 In 2020, the global pandemic transformed the way students live and learn. Given the significant lifestyle changes, this study was initiated to explore potential shifts in smartphone usage patterns and their subsequent impact on the mental well-being of STA304H5 students during the pandemic.
 
@@ -42,4 +42,4 @@ While our study provides valuable insights, it's crucial to acknowledge certain 
 The investigation indicates a notable shift in smartphone usage and a decline in mental well-being among STA304H5 students during the pandemic. These findings underscore the significance of adapting teaching methodologies and providing support structures that align with the new normal. However, it's pertinent to further refine research methods for more definitive outcomes.
 
 ## Full Report
-For a comprehensive dive into the methodology, granular results, and an extensive discussion, please review the [Smartphone_Usage_and_Mental_Wellbeing PDF](./Smartphone_Usage_and_Mental_Wellbeing.pdf).
+For a comprehensive dive into the methodology, granular results, and an extensive discussion, please review the [Smartphone_Usage_and_Mental_Health PDF](./Smartphone_Usage_and_Mental_Health.pdf).
