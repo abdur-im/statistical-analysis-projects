@@ -1,7 +1,7 @@
 # statistical-analysis-projects
 
 
-This repository contains detailed analyses of two distinct research projects: Egg Cooking Temperature and Smartphone Usage and Mental Health.
+This repository contains detailed analyses of two distinct research projects: Factors Influencing Egg Cooking Time and Smartphone Usage and Mental Health.
 
 ## Table of Contents
 1. [Factors Influencing Egg Cooking Time](#1-factors-influencing-egg-cooking-time)
