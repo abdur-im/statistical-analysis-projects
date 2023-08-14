@@ -14,13 +14,15 @@ This project was undertaken in collaboration with a team from the University of 
 In 2020, the global pandemic transformed the way students live and learn. Given the significant lifestyle changes, this study was initiated to explore potential shifts in smartphone usage patterns and their subsequent impact on the mental well-being of STA304H5 students during the pandemic.
 
 ## Methodology
-The research was grounded on data extracted from the STA304H5 Fall 2022 student population. Our focus rested on understanding:
+We sourced our data from a survey administered to the STA304H5 Fall 2022 UTM students. The survey touched on students' smartphone habits, mental well-being, and the broader impacts of the COVID-19 pandemic on aspects like finance and academics.
 
-- Smartphone usage before COVID-19
-- Smartphone usage during COVID-19
-- Students' mental health scores before and during the pandemic
+Post-collection, the survey data was processed into a CSV format. Rigorous data cleaning followed, prioritizing participant confidentiality and optimizing the dataset for R-based analysis. Redundant data columns were omitted, and the streamlined dataset is accessible [here](dataset.csv).
 
-In addition, factors like gender and the different aspects that constituted the overall mental health score (such as sleep quality, social interactions, and stress/anxiety levels) were also taken into account.
+Our primary research objectives were:
+
+1. Assessing changes in smartphone usage before and during COVID-19.
+2. Understanding fluctuations in students' mental health over the pandemic.
+3. Investigating the influence of gender and other factors on reported well-being metrics.
 
 ## Discussion and Results
 The data was presented using visual aids like boxplots. Here's a summarized view of our findings:
