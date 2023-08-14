@@ -42,4 +42,8 @@ While our study provides valuable insights, it's crucial to acknowledge certain 
 The investigation indicates a notable shift in smartphone usage and a decline in mental well-being among STA304H5 students during the pandemic. These findings underscore the significance of adapting teaching methodologies and providing support structures that align with the new normal. However, it's pertinent to further refine research methods for more definitive outcomes.
 
 ## Full Report
-For a comprehensive dive into the methodology, granular results, and an extensive discussion, please review the [Smartphone_Usage_and_Mental_Health PDF](./Smartphone_Usage_and_Mental_Health.pdf).
+For a comprehensive dive into the methodology, granular results, and an extensive discussion, please review the [Smartphone_Usage_and_Mental_Health PDF](./Smartphone_Usage_and_Mental_Health.pdf). 
+
+The questionnaire can be accessed using the link [https://forms.gle/1aEvTcEPfH37eQvi8](https://forms.gle/1aEvTcEPfH37eQvi8)
+
+In addition, the technical report can be accessed using [https://docs.google.com/document/d/1GG-gENA0Z4xMx-uTp_KdUJlG1sniHx719ZF6UiOgIB8/edit?usp=sharing](https://docs.google.com/document/d/1GG-gENA0Z4xMx-uTp_KdUJlG1sniHx719ZF6UiOgIB8/edit?usp=sharing)
