@@ -1,4 +1,4 @@
-# Analysis of Mental Health and Smartphone Usage
+# Analysis of Smartphone Usage and Mental Health
 
 # Libraries
 library(ggplot2)
