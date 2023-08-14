@@ -28,9 +28,7 @@ Our primary research objectives were:
 The data was presented using visual aids like boxplots. Here's a summarized view of our findings:
 
 1. Smartphone usage showed a visible increase during the pandemic, with average screen time rising from 4 hours pre-pandemic to 6 hours during COVID-19.
-  
 2. When segregated by gender, it became evident that the median smartphone usage for females, for instance, shifted from 5 hours pre-pandemic to 7 hours during the pandemic.
-
 3. The mental well-being of students witnessed a decline during the pandemic. Before COVID-19, the average mental health score was 14, which later dropped to 12 during the pandemic.
 
 ## Limitations
