@@ -1,15 +1,15 @@
-# [statistical-analysis-projects]
+# statistical-analysis-projects
 
 
 This repository contains detailed analyses of two distinct research projects: Egg Cooking Temperature and Smartphone Usage and Mental Health.
 
 ## Table of Contents
-1. [Egg Cooking Temperature](#1-egg-cooking-temperature)
+1. [Impact of Water Salinity and Temperature on Egg Cooking Time](#1-impact-of-water-salinity-and-temperature-on-egg-cooking-time)
 2. [Smartphone Usage and Mental Health](#2-smartphone-usage-and-mental-health)
 
 ---
 
-## 1. Egg Cooking Temperature
+## 1. Impact of Water Salinity and Temperature on Egg Cooking Time
 
 Completed in collaboration with a team from the University of Toronto for the course STA305H5 S, this study explored the influence of water temperature and salinity on the internal temperature of a boiled egg.
 - **Report**: [EggCooking_SalinityTemp.pdf](https://github.com/abdur-im/statistical-analysis-projects/blob/main/EggCooking_SalinityTemp/EggCooking_SalinityTemp.pdf)
